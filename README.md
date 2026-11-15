@@ -1,24 +1,13 @@
 # Customer Purchase Pattern Analyzer
 
+This program reads the orders.csv file and shows monthly spending, best month, category share, and mean and median order value (with charts).
 
+## How to Use
+pip install pandas numpy matplotlib
+Open the Code folder
+python main.py
 
-Ye program orders.csv file padhta hai aur monthly spending, best month, category share, mean aur median order value dikhata hai (charts ke saath).
-
-
-
-## Kaise Use Kare
-
-
-
-1. pip install pandas numpy matplotlib
-2. Code folder kholo
-3. python main.py
-
-
-
-Note: main.py aur orders.csv same folder mein honi chahiye.
-
-
+Note: main.py and orders.csv must be in the same folder.
 
 ## Menu Options
 
