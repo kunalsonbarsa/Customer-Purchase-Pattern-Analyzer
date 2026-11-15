@@ -20,15 +20,12 @@ Note: main.py aur orders.csv same folder mein honi chahiye.
 
 
 
-\## Menu Options
+## Menu Options
 
-1\. Monthly spending
-
-2\. Order statistics
-
-3\. Category share and statistics
-
-4\. Exit
+1. Monthly spending
+2. Order statistics
+3. Category share and statistics
+4. Exit
 
 
 
