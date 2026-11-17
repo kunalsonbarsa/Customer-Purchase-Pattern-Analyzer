@@ -1,9 +1,13 @@
 # Customer Purchase Pattern Analyzer
 
 **Name:** KUNAL SONBARSA
+
 **Class/Section:** M
+
 **ERP:** RU-26-01559
+
 **PS No.:** 81
+
 **University:** Rungta International Skills University
 --------------------------------------------------------------------------------------------------------------------
 ## Project Description
